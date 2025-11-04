@@ -6,13 +6,10 @@
 
 ## 📸 Project Overview
 
-| Login Page                                                                     | Feed Page                                                                    | Post Page                                                                    | Dedicated Page                                                                         |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Login](https://github.com/Bharath-kumar-7/My_Dairy-Project/assets/login.png) | ![Feed](https://github.com/Bharath-kumar-7/My_Dairy-Project/assets/feed.png) | ![Post](https://github.com/Bharath-kumar-7/My_Dairy-Project/assets/post.png) | ![Dedicated](https://github.com/Bharath-kumar-7/My_Dairy-Project/assets/dedicated.png) |
+| Login Page | Feed Page | Post Page | Dedicated Page |
+|-------------|------------|------------|----------------|
+| ![Login](assets/login.png) | ![Feed](assets/feed.png) | ![Post](assets/post.png) | ![Dedicated](assets/dedicated.png) |
 
-*(Add your actual screenshots in `/assets` folder and update URLs)*
-
----
 
 ## 🚀 Features
 
