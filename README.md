@@ -193,9 +193,8 @@ My_Dairy-Project/
 
 ## 🧑‍💻 Author
 
-**Bharath Kumar**
-📧 [Your Email Here]
-🌐 [Your Portfolio / LinkedIn]
+**Bharath Kumar Badagala**
+📧 [badagalabharath123@gmail.com]
 🗓️ *Created in 2025 with ❤️ for learning and innovation.*
 
 ---
