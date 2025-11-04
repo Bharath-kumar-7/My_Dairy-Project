@@ -119,15 +119,21 @@ Ensure the backend server is running locally on port 3000.
 ## 📁 Folder Structure
 
 ```
+
 My_Dairy-Project/
+├── assets
 │
-├── index.js                 # Express backend server
-├── Login.html / .css        # User login page
-├── Registration.html         # User registration page
-├── FeedPage.html / .css     # Dashboard (posts feed)
-├── Post.html / .css         # Create post form
-├── DedicatedPage.html / .css# View individual post
-└── README.md
+├── backend/
+│   ├── server.js
+│
+├── frontend/
+│   ├── index.html
+│   ├── Login.html / .css        # User login page
+    ├── Registration.html         # User registration page
+    ├── FeedPage.html / .css     # Dashboard (posts feed)
+    ├── Post.html / .css         # Create post form
+    ├── DedicatedPage.html / .css# View individual post
+    └── README.md
 ```
 
 ---
