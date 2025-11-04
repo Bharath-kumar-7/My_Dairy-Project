@@ -4,13 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-*(Add link if deployed, e.g., Render / Vercel / Railway)*
-👉 [Live Preview](#)
-
----
-
 ## 📸 Project Overview
 
 | Login Page                                                                     | Feed Page                                                                    | Post Page                                                                    | Dedicated Page                                                                         |
